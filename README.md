@@ -1,1 +1,1 @@
-este repositorio es la primera tarea que realizo 
+este repositorio es la primera tarea que se realizo
